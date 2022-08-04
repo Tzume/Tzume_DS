@@ -11,7 +11,7 @@
 ### Project description
 The aim is to guess the number hidden by the computer by the minimum amount of attempt.
 
-:arrou_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
+:arrow_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
 
 ### The case we work with
 We need to write a code which guesses the number by the minimum amount of attempt.
@@ -29,21 +29,21 @@ The aim to study who to write a good code in Python
 ### Brief data description
 Not applicable on the current stage
 
-:arrou_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
+:arrow_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
 
 ### Project stages
 Not applicable on the current stage
 
-:arrou_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
+:arrow_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
 
 ### Results
 Not applicable on the current stage
 
-:arrou_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
+:arrow_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
 
 ### Conclusion
 Not applicable on the current stage
 
-:arrou_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
+:arrow_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_0/README.md#Content)
 
 
