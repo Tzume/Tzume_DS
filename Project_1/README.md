@@ -1,4 +1,4 @@
-# Project 0. Game: guess the number.
+# Project 1. Game: guess the number randomly for less that 20 attempt.
 
 ## Content
 [1. Project description](https://github.com/Tzume/Tzume_DS/edit/main/Project_1/README.md#Project-description)
