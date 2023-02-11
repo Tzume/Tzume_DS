@@ -14,8 +14,3 @@
 4) очистка данных.
 
 :arrow_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_1/README.md#Содержание)
-
-### Ссылка на Dataset на Google.диск
-Для получения использованного в проекте Dataset, воспользуйтесь ссылкой: https://drive.google.com/file/d/1Gc0W3L7HGqJz7ErH07DNCooL6GYi6Gve/view?usp=sharing
-
-:arrow_up: [to content](https://github.com/Tzume/Tzume_DS/edit/main/Project_1/README.md#Содержание)
